@@ -1,0 +1,4 @@
+applications:
+- name: SQLInjectDetect
+random-route: true
+memory: 256M
